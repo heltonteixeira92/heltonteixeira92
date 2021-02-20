@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**heltonteixeira92/heltonteixeira92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+==========================================================================================================================================
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Helton Teixeira de Souza. I am a Python Developer 
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heltonteixeira92&repo=heltonteixeira92&countColorcountColor)
+
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heltonteixeira92&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=heltonteixeira92&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=heltonteixeira92&hide_border=true)
