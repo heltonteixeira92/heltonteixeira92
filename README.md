@@ -3,7 +3,16 @@
 
 
 
-<h4>My name is Helton Teixeira de Souza. I am a Python Developer</h4> 
+<h4> Meu nome é Helton Teixeira, moro em São Paulo, tenho 28 anos e sou graduado em Ciências da Computação.
+<p>Sou um pythonlover em formação e busco ingressar como desenvolvedor back-end.
+    <ul>Habilidades:
+        <li>Python</li>
+        <li>Django</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Bootstrap</li>
+    </ul>
+
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heltonteixeira92&repo=heltonteixeira92&countColorcountColor)
 
