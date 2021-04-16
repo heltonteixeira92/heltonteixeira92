@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [website-autoescola](https://github.com/heltonteixeira92/website-autoescola)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** and **how to Building Modern Python Applications on AWS**
 
 - 👨‍💻 All of my projects are available at 🚧[under construction](under construction)🚧
 
