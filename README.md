@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helton Teixeira</h1>
-<h3 align="center">A backend developer from Brazil</h3>
+<h3 align="center">A python backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heltonteixeira92&label=Profile%20views&color=0e75b6&style=flat" alt="heltonteixeira92" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django** and **how to Building Modern Python Applications on AWS**
 
-- 👨‍💻 All of my projects are available at 🚧[under construction](under construction)🚧
+- 👨‍💻 All of my projects are available at [my portfolio](https://heltonteixeira92.github.io)
 
 - 📫 How to reach me **heltonteixeiradesouza@hotmail.com**
 
