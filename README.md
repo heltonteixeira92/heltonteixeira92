@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/teixeira_helton" target="blank"><img src="https://img.shields.io/twitter/follow/teixeira_helton?logo=twitter&style=for-the-badge" alt="teixeira_helton" /></a> </p>
 
-- 🔭 I’m currently working on [website-autoescola](https://github.com/heltonteixeira92/website-autoescola)
+- 🔭 I’m currently working on [Ongame Entretenimento LTDA](https://br.ongame.net/) and BSP
 
-- 🌱 I’m currently learning **Django** and **how to Building Modern Python Applications on AWS**
+- 🌱 I’m currently improving my knowledge in **Django** and **Web Development**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://heltonteixeira92.github.io)
 
