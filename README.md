@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently improving my knowledge in **Django** and **Web Development**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://heltonteixeira92.github.io)
-
 - 📫 How to reach me **heltonteixeiradesouza@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
