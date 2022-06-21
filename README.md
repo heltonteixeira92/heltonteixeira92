@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ongame Entretenimento LTDA](https://br.ongame.net/) and BSP
 
-- 🌱 I’m currently improving my knowledge in **Docker**, **Virtual private server configuration and **AWS**
+- 🌱 I’m currently improving my knowledge in **Docker**, **Virtual private server configuration** and **AWS**
 
 - 📫 How to reach me **heltonteixeiradesouza@hotmail.com**
 
