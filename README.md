@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/teixeira_helton" target="blank"><img src="https://img.shields.io/twitter/follow/teixeira_helton?logo=twitter&style=for-the-badge" alt="teixeira_helton" /></a> </p>
 
-- 🔭 I’m currently working on [Ongame Entretenimento LTDA](https://br.ongame.net/) and side projects
+- 🔭 I’m currently working on [G4F](https://www.g4f.com.br/) and side projects
 
-- 🌱 I’m currently improving my knowledge in **Docker**, **Virtual private server configuration** and **AWS**
+- 🌱 I’m currently improving my knowledge in **Docker**, **React** and **AWS**
 
 - 📫 How to reach me **heltonteixeiradesouza@hotmail.com**
 
